@@ -1,3 +1,4 @@
+﻿
 # Website Boilerplate
 About 
 -------
@@ -13,3 +14,8 @@ Contains all components of a web-based system
 
 
 Nothing more, nothing less
+
+## Usage
+Delete placeholder.txt from _images and place image files
+Delete placeholder.txt from _jslib and insert javascript libraries use
+If none are used, delete _jslib directory 
