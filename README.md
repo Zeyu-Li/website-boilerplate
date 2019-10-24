@@ -7,15 +7,13 @@ It is free to use (MIT Licence)
 
 Contains all components of a web-based system
 
-* _css - 	stores css
-* _images - 	stores image files
-* _js - 	stores js files
-* _jslib -	stores js libraries
+* css 	-	stores css
+* images- 	stores image files
+* js 	- 	stores js files
+* jslib -	stores js libraries
 
 
 Nothing more, nothing less
 
 ## Usage
-Delete placeholder.txt from _images and place image files
-Delete placeholder.txt from _jslib and insert javascript libraries use
-If none are used, delete _jslib directory 
+If no js lib is used, delete the jslib directory 
